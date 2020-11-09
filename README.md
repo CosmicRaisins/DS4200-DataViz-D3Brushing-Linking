@@ -2,7 +2,7 @@
 
 This repository is your starting point for the assignment and includes the instructions below.
 
-Link to your GitHub pages website: [https://neu-ds-4200-f20.github.io/assignment--brushing-and-linking-CosmicRaisins/]
+Link to your GitHub pages website: https://cosmicraisins.github.io/DS4200-DataViz-D3Brushing-Linking/
 
 
 # Aim of the assignment
